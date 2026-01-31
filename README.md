@@ -7,6 +7,12 @@
 [![LangGraph](https://img.shields.io/badge/LangGraph-0.2.34-green.svg)](https://github.com/langchain-ai/langgraph)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## 🌐 Live Demo
+
+**Try it now:** [Invoice Reconciliation System](https://invoice-reconciliation-agents-daabkkex5nne88kjepjp5s.streamlit.app/)
+
+**GitHub:** [https://github.com/Suvroneel/invoice-reconciliation-agents](https://github.com/Suvroneel/invoice-reconciliation-agents)
+
 ---
 
 ## 📋 Table of Contents
@@ -478,8 +484,9 @@ Contributions welcome! Please:
 ## 📧 Contact
 
 **Author:** Suvroneel Nathak  
-**Email:** suvroneelnathak213@gmail.com]  
-**LinkedIn:**  
+**Email:** [suvroneelnathak213@gmail.com]  
+**LinkedIn:** [https://www.linkedin.com/in/suvroneel-nathak/](https://www.linkedin.com/in/suvroneel-nathak/) 
+
 **GitHub:** [@Suvroneel](https://github.com/Suvroneel)
 
 ---
