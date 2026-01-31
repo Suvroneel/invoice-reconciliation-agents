@@ -9,7 +9,7 @@
 
 ## 🌐 Live Demo
 
-**Try it now:** [Invoice Reconciliation System](https://invoice-reconciliation-agents-daabkkex5nne88kjepjp5s.streamlit.app/)
+**Try it now:** [Invoice Reconciliation System](https://invoice-reconciliation-agents.streamlit.app/)
 
 **GitHub:** [https://github.com/Suvroneel/invoice-reconciliation-agents](https://github.com/Suvroneel/invoice-reconciliation-agents)
 
@@ -23,7 +23,7 @@
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Agent Details](#agent-details)
-- [Demo](#demo)
+- [Demo](https://invoice-reconciliation-agents.streamlit.app/)
 - [Technical Details](#technical-details)
 - [Performance](#performance)
 
