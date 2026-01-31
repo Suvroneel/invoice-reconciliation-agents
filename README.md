@@ -477,10 +477,10 @@ Contributions welcome! Please:
 
 ## 📧 Contact
 
-**Author:** [Your Name]  
-**Email:** [your.email@example.com]  
-**LinkedIn:** [Your LinkedIn]  
-**GitHub:** [@YourUsername](https://github.com/YourUsername)
+**Author:** Suvroneel Nathak  
+**Email:** suvroneelnathak213@gmail.com]  
+**LinkedIn:**  
+**GitHub:** [@Suvroneel](https://github.com/Suvroneel)
 
 ---
 
