@@ -1,0 +1,26 @@
+EuroChem Trading Ltd
+Manchester Business Park, M90 5EH
+Tel: +44 161 789 4560 | VAT: GB345678901
+
+INVOICE
+Invoice Number: EC-7721
+Invoice Date: 28 Jan 2024
+Customer Ref: N/A
+Payment Terms: Net 30 Days
+
+Customer:
+NIYAMRAI Limited
+Hayes Business Centre
+Uxbridge, UB4 0NE, UK
+
+** Re: Your order from last week - Bhav confirmed by phone **
+
+Product Product Code Qty Unit £ Total £
+Mannitol Granular USP EC-M-440 120 kg £14.50 £1,740.00
+Talc Pharma Grade EC-T-892 60 kg £8.80 £528.00
+Colloidal Silicon Dioxide EC-S-225 25 kg £35.00 £875.00
+Hypromellose 2910 EC-H-667 80 kg £18.75 £1,500.00
+
+Net Total: £4,643.00
+VAT @ 20%: £928.60
+Amount Due: £5,571.60

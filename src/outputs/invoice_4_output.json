@@ -1,0 +1,82 @@
+{
+  "invoice_id": "",
+  "processing_timestamp": "2026-01-31T08:31:37.601580Z",
+  "processing_duration_seconds": 2.572967052459717,
+  "document_info": {
+    "filename": "Invoice_1_Baseline_3.jpg",
+    "document_quality": "acceptable"
+  },
+  "processing_results": {
+    "extraction_confidence": 0.7,
+    "document_quality": "acceptable",
+    "extracted_data": {
+      "invoice_number": "",
+      "invoice_date": "",
+      "supplier_name": "",
+      "supplier_address": null,
+      "supplier_vat": null,
+      "po_reference": null,
+      "payment_terms": null,
+      "currency": "GBP",
+      "line_items": [],
+      "subtotal": 0.0,
+      "vat_amount": 0.0,
+      "vat_rate": 0.2,
+      "total": 0.0
+    },
+    "matching_results": {
+      "po_match_confidence": 0.75,
+      "matched_po": "PO-2024-001",
+      "match_method": "supplier_match",
+      "supplier_match": true,
+      "line_items_matched": 0,
+      "line_items_total": 0,
+      "match_rate": 0.0,
+      "alternative_matches": []
+    },
+    "discrepancies": [
+      {
+        "type": "total_variance",
+        "severity": "high",
+        "field": "total",
+        "details": "Invoice total \u00a30.00 vs PO total \u00a39573.00 (\u00a39573.00 difference, 100.0% variance)",
+        "invoice_value": 0.0,
+        "po_value": 9573.0,
+        "variance_percentage": 1.0,
+        "confidence": 0.99
+      }
+    ],
+    "total_variance": {
+      "amount": 9573.0,
+      "percentage": 1.0,
+      "within_tolerance": false
+    },
+    "recommended_action": "flag_for_review",
+    "risk_level": "medium",
+    "confidence": 0.85,
+    "agent_reasoning": "EXTRACTION: Extracted invoice  with acceptable quality. Found 0 line items. Extraction confidence: 70.00%. | MATCHING: Matched to PO PO-2024-001 using supplier_match with 75% confidence. 0/0 line items matched. | DISCREPANCIES: Found 1 discrepancies: 1 high severity, 0 medium severity. Review required. | RESOLUTION: Found 1 high and 0 medium severity discrepancies. Recommend human review before approval."
+  },
+  "agent_execution_trace": {
+    "document_intelligence_agent": {
+      "duration_ms": 2560,
+      "confidence": 0.7,
+      "status": "success"
+    },
+    "matching_agent": {
+      "duration_ms": 0,
+      "confidence": 0.75,
+      "status": "success"
+    },
+    "discrepancy_detection_agent": {
+      "duration_ms": 0,
+      "confidence": 0.95,
+      "status": "success"
+    },
+    "resolution_recommendation_agent": {
+      "duration_ms": 0,
+      "confidence": 0.85,
+      "status": "success"
+    }
+  },
+  "errors": []
+}

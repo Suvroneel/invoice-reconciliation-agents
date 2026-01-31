@@ -1,0 +1,25 @@
+Global Pharma Supply Co.
+International House, London EC2M 7PY
+VAT Registration: GB234567890 | Company No: 12345678
+
+INVOICE
+Invoice No: GPS-8842
+Date: 25/01/2024
+PO Number: PO-2024-004
+Terms: Net 30
+Due Date: 24/02/2024
+
+BILL TO:
+NIYAMRAI Limited
+Hayes Business Centre
+Uxbridge UB4 0NE
+United Kingdom
+
+Item Code Description Quantity Unit Price Line Total
+GPS-A101 Ibuprofen BP 200mg 100 kg £88.00 £8,800.00
+GPS-E045 Povidone K30 USP 75 kg £22.00 £1,650.00
+GPS-E067 Sodium Starch Glycolate 40 kg £19.50 £780.00
+
+Subtotal: £11,230.00
+VAT (20%): £2,246.00
+TOTAL DUE:£13,476.00

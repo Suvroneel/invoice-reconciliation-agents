@@ -1,0 +1,193 @@
+{
+  "purchase_orders": [
+    {
+      "po_number": "PO-2024-001",
+      "supplier": "PharmaChem Supplies Ltd",
+      "date": "2024-01-10",
+      "total": 9573.00,
+      "currency": "GBP",
+      "line_items": [
+        {
+          "item_id": "API-001",
+          "description": "Paracetamol BP 500mg",
+          "quantity": 50,
+          "unit": "kg",
+          "unit_price": 125.00,
+          "line_total": 6250.00
+        },
+        {
+          "item_id": "EXC-023",
+          "description": "Microcrystalline Cellulose",
+          "quantity": 100,
+          "unit": "kg",
+          "unit_price": 8.50,
+          "line_total": 850.00
+        },
+        {
+          "item_id": "EXC-045",
+          "description": "Magnesium Stearate Ph Eur",
+          "quantity": 25,
+          "unit": "kg",
+          "unit_price": 24.00,
+          "line_total": 600.00
+        },
+        {
+          "item_id": "COL-012",
+          "description": "Titanium Dioxide E171",
+          "quantity": 15,
+          "unit": "kg",
+          "unit_price": 18.50,
+          "line_total": 277.50
+        }
+      ]
+    },
+    {
+      "po_number": "PO-2024-002",
+      "supplier": "BioActive Materials UK",
+      "date": "2024-01-12",
+      "total": 5328.00,
+      "currency": "GBP",
+      "line_items": [
+        {
+          "item_id": "BIO-751",
+          "description": "Ascorbic Acid USP",
+          "quantity": 75,
+          "unit": "kg",
+          "unit_price": 32.00,
+          "line_total": 2400.00
+        },
+        {
+          "item_id": "BIO-822",
+          "description": "Citric Acid Anhydrous",
+          "quantity": 100,
+          "unit": "kg",
+          "unit_price": 12.50,
+          "line_total": 1250.00
+        },
+        {
+          "item_id": "BIO-943",
+          "description": "Sodium Benzoate",
+          "quantity": 50,
+          "unit": "kg",
+          "unit_price": 15.80,
+          "line_total": 790.00
+        }
+      ]
+    },
+    {
+      "po_number": "PO-2024-003",
+      "supplier": "MedChem Ingredients",
+      "date": "2024-01-15",
+      "total": 7362.00,
+      "currency": "GBP",
+      "line_items": [
+        {
+          "item_id": "MC-215",
+          "description": "Gelatin Type A 200 Bloom",
+          "quantity": 50,
+          "unit": "kg",
+          "unit_price": 45.00,
+          "line_total": 2250.00
+        },
+        {
+          "item_id": "MC-376",
+          "description": "Lactose Monohydrate Mesh 200",
+          "quantity": 150,
+          "unit": "kg",
+          "unit_price": 11.20,
+          "line_total": 1680.00
+        },
+        {
+          "item_id": "MC-584",
+          "description": "Pregelatinized Starch",
+          "quantity": 200,
+          "unit": "kg",
+          "unit_price": 6.75,
+          "line_total": 1350.00
+        },
+        {
+          "item_id": "MC-492",
+          "description": "Croscarmellose Sodium",
+          "quantity": 30,
+          "unit": "kg",
+          "unit_price": 28.50,
+          "line_total": 855.00
+        }
+      ]
+    },
+    {
+      "po_number": "PO-2024-004",
+      "supplier": "Global Pharma Supply Co.",
+      "date": "2024-01-18",
+      "total": 13176.00,
+      "currency": "GBP",
+      "line_items": [
+        {
+          "item_id": "GPS-A101",
+          "description": "Ibuprofen BP 200mg",
+          "quantity": 100,
+          "unit": "kg",
+          "unit_price": 80.00,
+          "line_total": 8000.00
+        },
+        {
+          "item_id": "GPS-E045",
+          "description": "Povidone K30 USP",
+          "quantity": 75,
+          "unit": "kg",
+          "unit_price": 22.00,
+          "line_total": 1650.00
+        },
+        {
+          "item_id": "GPS-E067",
+          "description": "Sodium Starch Glycolate",
+          "quantity": 40,
+          "unit": "kg",
+          "unit_price": 19.50,
+          "line_total": 780.00
+        }
+      ]
+    },
+    {
+      "po_number": "PO-2024-005",
+      "supplier": "EuroChem Trading Ltd",
+      "date": "2024-01-22",
+      "total": 5571.60,
+      "currency": "GBP",
+      "line_items": [
+        {
+          "item_id": "EC-M-440",
+          "description": "Mannitol Granular USP",
+          "quantity": 120,
+          "unit": "kg",
+          "unit_price": 14.50,
+          "line_total": 1740.00
+        },
+        {
+          "item_id": "EC-T-892",
+          "description": "Talc Pharma Grade",
+          "quantity": 60,
+          "unit": "kg",
+          "unit_price": 8.80,
+          "line_total": 528.00
+        },
+        {
+          "item_id": "EC-S-225",
+          "description": "Colloidal Silicon Dioxide",
+          "quantity": 25,
+          "unit": "kg",
+          "unit_price": 35.00,
+          "line_total": 875.00
+        },
+        {
+          "item_id": "EC-H-667",
+          "description": "Hypromellose 2910",
+          "quantity": 80,
+          "unit": "kg",
+          "unit_price": 18.75,
+          "line_total": 1500.00
+        }
+      ]
+    }
+  ]
+}

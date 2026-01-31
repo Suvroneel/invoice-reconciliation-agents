@@ -1,0 +1,82 @@
+{
+  "invoice_id": "Invoice",
+  "processing_timestamp": "2026-01-31T08:31:32.431810Z",
+  "processing_duration_seconds": 0.6274588108062744,
+  "document_info": {
+    "filename": "Invoice_1_Baseline.txt",
+    "document_quality": "excellent"
+  },
+  "processing_results": {
+    "extraction_confidence": 0.9000000000000001,
+    "document_quality": "excellent",
+    "extracted_data": {
+      "invoice_number": "Invoice",
+      "invoice_date": "",
+      "supplier_name": "",
+      "supplier_address": null,
+      "supplier_vat": null,
+      "po_reference": "Reference",
+      "payment_terms": null,
+      "currency": "GBP",
+      "line_items": [],
+      "subtotal": 0.0,
+      "vat_amount": 0.0,
+      "vat_rate": 0.2,
+      "total": 7977.5
+    },
+    "matching_results": {
+      "po_match_confidence": 0.75,
+      "matched_po": "PO-2024-001",
+      "match_method": "supplier_match",
+      "supplier_match": true,
+      "line_items_matched": 0,
+      "line_items_total": 0,
+      "match_rate": 0.0,
+      "alternative_matches": []
+    },
+    "discrepancies": [
+      {
+        "type": "total_variance",
+        "severity": "high",
+        "field": "total",
+        "details": "Invoice total \u00a37977.50 vs PO total \u00a39573.00 (\u00a31595.50 difference, 16.7% variance)",
+        "invoice_value": 7977.5,
+        "po_value": 9573.0,
+        "variance_percentage": 0.16666666666666666,
+        "confidence": 0.99
+      }
+    ],
+    "total_variance": {
+      "amount": 1595.5,
+      "percentage": 0.16666666666666666,
+      "within_tolerance": false
+    },
+    "recommended_action": "flag_for_review",
+    "risk_level": "medium",
+    "confidence": 0.85,
+    "agent_reasoning": "EXTRACTION: Extracted invoice Invoice with excellent quality. Found 0 line items. Extraction confidence: 90.00%. | MATCHING: Matched to PO PO-2024-001 using supplier_match with 75% confidence. 0/0 line items matched. | DISCREPANCIES: Found 1 discrepancies: 1 high severity, 0 medium severity. Review required. | RESOLUTION: Found 1 high and 0 medium severity discrepancies. Recommend human review before approval."
+  },
+  "agent_execution_trace": {
+    "document_intelligence_agent": {
+      "duration_ms": 548,
+      "confidence": 0.9000000000000001,
+      "status": "success"
+    },
+    "matching_agent": {
+      "duration_ms": 0,
+      "confidence": 0.75,
+      "status": "success"
+    },
+    "discrepancy_detection_agent": {
+      "duration_ms": 0,
+      "confidence": 0.95,
+      "status": "success"
+    },
+    "resolution_recommendation_agent": {
+      "duration_ms": 0,
+      "confidence": 0.85,
+      "status": "success"
+    }
+  },
+  "errors": []
+}

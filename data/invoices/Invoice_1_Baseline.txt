@@ -1,0 +1,26 @@
+PharmaChem Supplies Ltd
+Unit 12, Industrial Estate, Manchester M20 4XY
+VAT: GB123456789 | Tel: +44 161 555 0123
+
+INVOICE
+
+Invoice Number: INV-2024-1001
+Invoice Date: 15 January 2024
+PO Reference: PO-2024-001
+Payment Terms: Net 30 Days
+
+Bill To:
+NIYAMRAI Limited
+Hayes Business Centre
+Uxbridge, UB4 0NE
+United Kingdom
+
+Item Code Description Quantity Unit Price Total
+API-001 Paracetamol BP 500mg 50 kg £125.00 £6,250.00
+EXC-023 Microcrystalline Cellulose 100 kg £8.50 £850.00
+EXC-045 Magnesium Stearate Ph Eur 25 kg £24.00 £600.00
+COL-012 Titanium Dioxide E171 15 kg £18.50 £277.50
+
+Subtotal: £7,977.50
+VAT (20%): £1,595.50
+Total Due: £9,573.00
