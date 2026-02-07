@@ -13,6 +13,11 @@
 
 **GitHub:** [https://github.com/Suvroneel/invoice-reconciliation-agents](https://github.com/Suvroneel/invoice-reconciliation-agents)
 
+
+Demo repo for evaluation purposes only.
+
+Do not use in production or commercial projects without permission.
+
 ---
 
 ## 📋 Table of Contents
