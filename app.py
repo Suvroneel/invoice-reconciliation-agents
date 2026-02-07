@@ -15,7 +15,7 @@ from src.config import Config
 
 st.set_page_config(page_title="Invoice Reconciliation", page_icon="📄", layout="wide")
 
-st.title("📄 Invoice Reconciliation Agent System")
+st.title(" Invoice Reconciliation Agent System")
 st.markdown("*Multi-agent AI for automated invoice processing*")
 
 # Initialize
